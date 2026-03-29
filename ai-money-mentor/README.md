@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Money Mentor - ET GenAI Hackathon 2026
 
-# Run and deploy your AI Studio app
+An AI-powered personal finance mentor designed to make financial planning as accessible as checking WhatsApp.
 
-This contains everything you need to run your app locally.
+## 🚀 Key Features
+* **Financial Pulse (Money Health Score):** A 6-dimension wellness score covering emergency preparedness, tax efficiency, and retirement readiness.
+* **FIRE Path Planner:** A comprehensive, month-by-month financial roadmap to help users achieve Financial Independence and Early Retirement.
+* **Tax Wizard:** Instant comparison between Old and New tax regimes for FY 2024-25, identifying missing deductions.
 
-View your app in AI Studio: https://ai.studio/apps/6819f2d4-b69a-46c9-bf0f-548ce7699586
+## 🛠️ Tech Stack
+* **AI Engine:** Powered by **Gemini 3 Flash** for high-speed, expert-level financial reasoning.
+* **Frontend:** Built with **React 19**, **Tailwind CSS**, and **Framer Motion** for a premium UX.
+* **Data Viz:** Integrated **Recharts** for clear, accessible financial health metrics.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📊 Business Impact
+* **Accessibility:** Eliminates the ₹25,000+ advisory fee barrier for retail investors.
+* **Speed:** Delivers full portfolio reconstruction and tax analysis in under 10 seconds.
