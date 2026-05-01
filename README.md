@@ -1,4 +1,4 @@
-1. Architecture Document 
+1. Architecture Document
 System Design & Logic:
 
 Frontend Layer: Built with React 19 and Tailwind CSS for a responsive, mobile-first experience.
